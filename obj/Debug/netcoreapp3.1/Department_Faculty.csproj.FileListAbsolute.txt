@@ -1,0 +1,13 @@
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\obj\Debug\netcoreapp3.1\Department_Faculty.csprojAssemblyReference.cache
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\obj\Debug\netcoreapp3.1\Department_Faculty.AssemblyInfoInputs.cache
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\obj\Debug\netcoreapp3.1\Department_Faculty.AssemblyInfo.cs
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\obj\Debug\netcoreapp3.1\Department_Faculty.csproj.CoreCompileInputs.cache
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\bin\Debug\netcoreapp3.1\Department_Faculty.exe
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\bin\Debug\netcoreapp3.1\Department_Faculty.deps.json
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\bin\Debug\netcoreapp3.1\Department_Faculty.runtimeconfig.json
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\bin\Debug\netcoreapp3.1\Department_Faculty.runtimeconfig.dev.json
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\bin\Debug\netcoreapp3.1\Department_Faculty.dll
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\bin\Debug\netcoreapp3.1\Department_Faculty.pdb
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\obj\Debug\netcoreapp3.1\Department_Faculty.dll
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\obj\Debug\netcoreapp3.1\Department_Faculty.pdb
+C:\Users\RadwanRomy\source\repos\Department_Faculty\Department_Faculty\obj\Debug\netcoreapp3.1\Department_Faculty.genruntimeconfig.cache
