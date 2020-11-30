@@ -14,8 +14,8 @@ namespace Department_Faculty
             Faculty f4 = new Faculty("HHssdrfd", "124");
             d.AddFaculty(f, f2,f3,f4);
             d.ShowAllFaculty();
-         //   d.RemoveFaculty(f2);
-          //  d.SearchFaculty("123");
+            d.RemoveFaculty(f2);
+            //d.SearchFaculty("123");
 
             Console.WriteLine();
             d.ShowAllFaculty();

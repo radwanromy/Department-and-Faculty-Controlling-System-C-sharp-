@@ -8,7 +8,7 @@ namespace Department_Faculty
     {
         public string DepartmentName { get; set; }
         public string DepartmentNumber { get; set; }
-        public int totalFaculty { get; set; }
+      
         public Faculty[] listOfFaculty;
         private int facultyCount;
         public int FacultyCount
@@ -34,7 +34,7 @@ namespace Department_Faculty
         {
             Console.WriteLine("Name Of The Department: " + DepartmentName);
             Console.WriteLine("ID Number Of The Department: " + DepartmentNumber);
-            Console.WriteLine("Total Number Of Faculty: " + totalFaculty);
+           
         }
         public void AddFaculty(params Faculty[] faculties)
         {
